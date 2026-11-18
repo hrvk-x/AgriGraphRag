@@ -1,0 +1,35 @@
+{
+  "dataset_note": "ILLUSTRATIVE SOFTWARE-TEST DOCUMENTS ONLY; NOT AGRICULTURAL ADVICE.",
+  "documents": [
+    {
+      "id": "rice_varieties",
+      "text": "ILLUSTRATIVE DEMO DATA: Rice is connected to varieties ADT 36, CO 51 and Bhavani. ADT 36 is linked to Kuruvai and CO 51 to Samba in this illustrative demo.",
+      "source": "sample_dataset"
+    },
+    {
+      "id": "rice_pests",
+      "text": "ILLUSTRATIVE DEMO DATA: Stem borer and leaf folder are linked to rice as pests in this illustrative demo. Field monitoring is linked to stem borer. This is not a pest-control recommendation.",
+      "source": "sample_dataset"
+    },
+    {
+      "id": "rice_soil",
+      "text": "ILLUSTRATIVE DEMO DATA: Clay loam soil and water management are connected to rice in this illustrative demo. This is not a cultivation recommendation.",
+      "source": "sample_dataset"
+    },
+    {
+      "id": "maize",
+      "text": "ILLUSTRATIVE DEMO DATA: Maize is linked to fall armyworm and Rabi. Pheromone traps are linked to monitoring fall armyworm in this illustrative demo.",
+      "source": "sample_dataset"
+    },
+    {
+      "id": "tomato",
+      "text": "ILLUSTRATIVE DEMO DATA: Tomato is linked to fruit borer and Rabi in this illustrative demo.",
+      "source": "sample_dataset"
+    },
+    {
+      "id": "seasons",
+      "text": "ILLUSTRATIVE DEMO DATA: Rice is linked to Kuruvai and Samba. Maize and tomato are linked to Rabi in this illustrative demo.",
+      "source": "sample_dataset"
+    }
+  ]
+}

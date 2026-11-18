@@ -1,0 +1,226 @@
+{
+  "dataset_note": "ILLUSTRATIVE SOFTWARE-TEST DATA ONLY; NOT AGRICULTURAL ADVICE.",
+  "triples": [
+    {
+      "subject": "ADT 36",
+      "subject_type": "VARIETY",
+      "predicate": "VARIETY_OF",
+      "object": "Rice",
+      "object_type": "CROP",
+      "evidence": "ILLUSTRATIVE: ADT 36 is represented as a rice variety in this illustrative demo.",
+      "confidence": 1.0,
+      "qualifiers": {
+        "demo_only": true
+      },
+      "source": "sample_dataset"
+    },
+    {
+      "subject": "CO 51",
+      "subject_type": "VARIETY",
+      "predicate": "VARIETY_OF",
+      "object": "Rice",
+      "object_type": "CROP",
+      "evidence": "ILLUSTRATIVE: CO 51 is represented as a rice variety in this illustrative demo.",
+      "confidence": 1.0,
+      "qualifiers": {
+        "demo_only": true
+      },
+      "source": "sample_dataset"
+    },
+    {
+      "subject": "Bhavani",
+      "subject_type": "VARIETY",
+      "predicate": "VARIETY_OF",
+      "object": "Rice",
+      "object_type": "CROP",
+      "evidence": "ILLUSTRATIVE: Bhavani is represented as a rice variety in this illustrative demo.",
+      "confidence": 1.0,
+      "qualifiers": {
+        "demo_only": true
+      },
+      "source": "sample_dataset"
+    },
+    {
+      "subject": "Rice",
+      "subject_type": "CROP",
+      "predicate": "GROWN_DURING",
+      "object": "Kuruvai",
+      "object_type": "SEASON",
+      "evidence": "ILLUSTRATIVE: Rice is linked to Kuruvai in this illustrative demo.",
+      "confidence": 1.0,
+      "qualifiers": {
+        "demo_only": true
+      },
+      "source": "sample_dataset"
+    },
+    {
+      "subject": "Rice",
+      "subject_type": "CROP",
+      "predicate": "GROWN_DURING",
+      "object": "Samba",
+      "object_type": "SEASON",
+      "evidence": "ILLUSTRATIVE: Rice is linked to Samba in this illustrative demo.",
+      "confidence": 1.0,
+      "qualifiers": {
+        "demo_only": true
+      },
+      "source": "sample_dataset"
+    },
+    {
+      "subject": "ADT 36",
+      "subject_type": "VARIETY",
+      "predicate": "SUITABLE_FOR",
+      "object": "Kuruvai",
+      "object_type": "SEASON",
+      "evidence": "ILLUSTRATIVE: ADT 36 is linked to Kuruvai in this illustrative demo.",
+      "confidence": 1.0,
+      "qualifiers": {
+        "demo_only": true
+      },
+      "source": "sample_dataset"
+    },
+    {
+      "subject": "CO 51",
+      "subject_type": "VARIETY",
+      "predicate": "SUITABLE_FOR",
+      "object": "Samba",
+      "object_type": "SEASON",
+      "evidence": "ILLUSTRATIVE: CO 51 is linked to Samba in this illustrative demo.",
+      "confidence": 1.0,
+      "qualifiers": {
+        "demo_only": true
+      },
+      "source": "sample_dataset"
+    },
+    {
+      "subject": "Rice",
+      "subject_type": "CROP",
+      "predicate": "AFFECTED_BY",
+      "object": "Stem borer",
+      "object_type": "PEST",
+      "evidence": "ILLUSTRATIVE: Stem borer is connected to rice as a pest in this illustrative demo.",
+      "confidence": 1.0,
+      "qualifiers": {
+        "demo_only": true
+      },
+      "source": "sample_dataset"
+    },
+    {
+      "subject": "Rice",
+      "subject_type": "CROP",
+      "predicate": "AFFECTED_BY",
+      "object": "Leaf folder",
+      "object_type": "PEST",
+      "evidence": "ILLUSTRATIVE: Leaf folder is connected to rice as a pest in this illustrative demo.",
+      "confidence": 1.0,
+      "qualifiers": {
+        "demo_only": true
+      },
+      "source": "sample_dataset"
+    },
+    {
+      "subject": "Stem borer",
+      "subject_type": "PEST",
+      "predicate": "MANAGED_BY",
+      "object": "Field monitoring",
+      "object_type": "PRACTICE",
+      "evidence": "ILLUSTRATIVE: Field monitoring is linked to stem borer in this illustrative demo.",
+      "confidence": 1.0,
+      "qualifiers": {
+        "demo_only": true
+      },
+      "source": "sample_dataset"
+    },
+    {
+      "subject": "Rice",
+      "subject_type": "CROP",
+      "predicate": "NEEDS",
+      "object": "Clay loam soil",
+      "object_type": "SOIL_TYPE",
+      "evidence": "ILLUSTRATIVE: Clay loam soil is connected to rice in this illustrative demo.",
+      "confidence": 1.0,
+      "qualifiers": {
+        "demo_only": true
+      },
+      "source": "sample_dataset"
+    },
+    {
+      "subject": "Rice",
+      "subject_type": "CROP",
+      "predicate": "NEEDS",
+      "object": "Water management",
+      "object_type": "PRACTICE",
+      "evidence": "ILLUSTRATIVE: Water management is connected to rice in this illustrative demo.",
+      "confidence": 1.0,
+      "qualifiers": {
+        "demo_only": true
+      },
+      "source": "sample_dataset"
+    },
+    {
+      "subject": "Maize",
+      "subject_type": "CROP",
+      "predicate": "AFFECTED_BY",
+      "object": "Fall armyworm",
+      "object_type": "PEST",
+      "evidence": "ILLUSTRATIVE: Fall armyworm is connected to maize in this illustrative demo.",
+      "confidence": 1.0,
+      "qualifiers": {
+        "demo_only": true
+      },
+      "source": "sample_dataset"
+    },
+    {
+      "subject": "Maize",
+      "subject_type": "CROP",
+      "predicate": "GROWN_DURING",
+      "object": "Rabi",
+      "object_type": "SEASON",
+      "evidence": "ILLUSTRATIVE: Maize is linked to Rabi in this illustrative demo.",
+      "confidence": 1.0,
+      "qualifiers": {
+        "demo_only": true
+      },
+      "source": "sample_dataset"
+    },
+    {
+      "subject": "Fall armyworm",
+      "subject_type": "PEST",
+      "predicate": "MONITORED_BY",
+      "object": "Pheromone traps",
+      "object_type": "PRACTICE",
+      "evidence": "ILLUSTRATIVE: Pheromone traps are linked to monitoring fall armyworm in this illustrative demo.",
+      "confidence": 1.0,
+      "qualifiers": {
+        "demo_only": true
+      },
+      "source": "sample_dataset"
+    },
+    {
+      "subject": "Tomato",
+      "subject_type": "CROP",
+      "predicate": "AFFECTED_BY",
+      "object": "Fruit borer",
+      "object_type": "PEST",
+      "evidence": "ILLUSTRATIVE: Fruit borer is connected to tomato in this illustrative demo.",
+      "confidence": 1.0,
+      "qualifiers": {
+        "demo_only": true
+      },
+      "source": "sample_dataset"
+    },
+    {
+      "subject": "Tomato",
+      "subject_type": "CROP",
+      "predicate": "GROWN_DURING",
+      "object": "Rabi",
+      "object_type": "SEASON",
+      "evidence": "ILLUSTRATIVE: Tomato is linked to Rabi in this illustrative demo.",
+      "confidence": 1.0,
+      "qualifiers": {
+        "demo_only": true
+      },
+      "source": "sample_dataset"
+    }
+  ]
+}
